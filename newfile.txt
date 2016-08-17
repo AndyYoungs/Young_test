@@ -1,6 +1,6 @@
 一般流程步骤：
 You can writes file.
-K5519q代码编一个V1.07版本
-1.git clean -dfx
-2.git reset --hard
-3.修改编译脚本，修改版本号
+//K5519q代码编一个V1.07版本
+//1.git clean -dfx
+//2.git reset --hard
+//3.修改编译脚本，修改版本号
